@@ -1,0 +1,36 @@
+/* Example styles (replace with your desired styles) */
+.home-screen-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .header-links {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .welcome-heading {
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  
+  .welcome-message {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
